@@ -73,7 +73,7 @@ I specialize in:
 class Abanob extends Engineer implements ProjectManager {
   skills = {
     engineering: [
-      "Full Stack Web",
+      "Full Stack Web (MERN / PERN)",
       "Mobile Apps (React Native / Expo)",
       "Backend APIs",
       "Database Design"
