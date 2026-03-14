@@ -54,7 +54,7 @@ I enjoy transforming **business requirements into scalable software systems**, l
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank">
-<img align="left" alt="PostgreSQL" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/postgresql/postgresql.svg">
+<img align="left" alt="PostgreSQL" height ="42px" src="https://www.postgresql.org/media/img/about/press/elephant.png">
 </a>
 
 <a href="https://www.sqlite.org/" target="_blank">
