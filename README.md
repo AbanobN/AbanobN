@@ -50,7 +50,7 @@ I enjoy transforming **business requirements into scalable software systems**, l
 </a>
 
 <a href="https://nestjs.com/" target="_blank">
-<img align="left" alt="NestJS" height ="42px" src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nestjs.svg](https://nestjs.com/logo-small-gradient.0ed287ce.svg)">
+<img align="left" alt="NestJS" height ="42px" src="https://nestjs.com/logo-small-gradient.0ed287ce.svg">
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank">
