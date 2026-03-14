@@ -58,7 +58,7 @@ I enjoy transforming **business requirements into scalable software systems**, l
 </a>
 
 <a href="https://www.sqlite.org/" target="_blank">
-<img align="left" alt="SQLite" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sqlite/sqlite.svg">
+<img align="left" alt="SQLite" height ="42px" src="https://www.sqlite.org/images/sqlite370_banner.svg">
 </a>
 
 <a href="https://supabase.com/" target="_blank">
