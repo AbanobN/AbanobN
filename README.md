@@ -62,7 +62,7 @@ I enjoy transforming **business requirements into scalable software systems**, l
 </a>
 
 <a href="https://supabase.com/" target="_blank">
-<img align="left" alt="Supabase" height ="42px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg">
+<img align="left" alt="Supabase" height ="42px" src="https://companieslogo.com/img/orig/supabase-554aca1c.png?t=1720244494">
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
